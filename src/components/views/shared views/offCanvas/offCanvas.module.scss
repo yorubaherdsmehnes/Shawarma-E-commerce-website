@@ -1,0 +1,64 @@
+@import '../../../variables';
+
+.root {
+  .offcanvas_backdrop {
+    background-color: #1c1c1c97;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    z-index: 3;
+  }
+  .offcanvas {
+    position: fixed;
+    z-index: 3;
+    width: 100vw;
+    .header {
+      height: 80px;
+      background-color: $black;
+      display: inline-flex;
+      width: 100vw;
+      align-items: center;
+      justify-content: space-between;
+      h1 {
+        color: $white;
+        font-size: 1.3rem;
+        font-weight: 400;
+        display: inline-block;
+        padding-left: $side-padding;
+      }
+      .close_button {
+        display: inline-block;
+        z-index: 10;
+        padding-right: $side-padding;
+        button {
+          width: 40px;
+          height: 40px;
+          padding: 0;
+          display: inline-flex;
+          justify-content: center;
+          align-items: center;
+          font-size: 3rem;
+          font-weight: 300;
+        }
+      }
+    }
+    .body {
+      .nav_button_links {
+        margin: 25px 0;
+        text-align: center;
+        button {
+          margin: 7px 0;
+        }
+        hr {
+          width: 50vw;
+        }
+        .order_button {
+          display: none;
+          @media screen and (max-width: $phone) {
+            display: inherit;
+          }
+        }
+      }
+    }
+  }
+}

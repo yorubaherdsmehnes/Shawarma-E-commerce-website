@@ -1,0 +1,43 @@
+@import '../../../variables';
+
+.blog {
+  .head_div {
+    padding: 160px 0 0;
+    h6 {
+        margin: 0 10px;
+        border-radius: 5px;
+        font-size: 1.2rem;
+      background-color: $bright-red;
+      color: $white;
+      display: inline;
+      padding: 10px;
+      float: right;
+    }
+    h1 {
+    text-align: left;
+      display: inline-block;
+      margin: 0 0 30px;
+      width: 60vw;
+      font-size: 2.5rem;
+      font-weight: 500;
+      letter-spacing: 40%;
+      word-spacing: 30%;
+    }
+  }
+  p {
+    font-size: 1.5rem;
+    opacity: 0.6;
+    word-spacing: 0.4rem;
+    letter-spacing: 0.1rem;
+    line-height: 1.7rem;
+  }
+  .image {
+    display: block;
+    text-align: center;
+    padding: 100px 0;
+    img {
+      width: 50vw;
+      height: calc(50vw / 1.28);
+    }
+  }
+}

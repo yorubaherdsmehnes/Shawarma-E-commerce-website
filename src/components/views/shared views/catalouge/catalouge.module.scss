@@ -1,0 +1,53 @@
+@import '../../../variables';
+
+.catalogue {
+  width: 100%;
+  height: auto;
+  padding-bottom: 150px;
+  background-color: $bright-red;
+  text-align: center;
+  h1 {
+    font-size: 2.2rem;
+    letter-spacing: 5px;
+    word-spacing: 15px;
+    font-weight: 600;
+    color: $black;
+    padding: 80px 0 50px;
+    margin: 0;
+  }
+  .row {
+    width: calc(100% - 10vw);
+    margin: 0 5vw;
+    padding-top: 75px;
+    display: inline-flex;
+    border-radius: 20px;
+    background-color: $dark-red;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 30px 0.5px #1c1c1c15;
+
+    .images {
+      text-align: center;
+      z-index: 0;
+      img {
+        height: 400px;
+        width: 300px;
+        margin: 0 25px 75px;
+        border: 2px solid $black;
+        border-radius: 10px;
+        object-fit: cover;
+        object-position: 50% 35%;
+      }
+      span {
+        position: relative;
+        display: block;
+        top: -150px;
+        font-size: 1.3rem;
+        font-weight: 700;
+        color: $bright-red;
+        margin: 0;
+      }
+    }
+  }
+}

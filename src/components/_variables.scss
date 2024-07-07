@@ -1,0 +1,19 @@
+// colors
+$white: #f2f2f2;
+$black: #1C0D0D;
+$pink: #FEF0ED;
+$bright-red: #C51E1E;
+$dark-red: #D82D2D;
+
+// media size
+$laptop-sm: 1280px;
+$tablet: 960px;
+$phone: 540px;
+
+$side-padding: 10vw;
+@media screen and (min-width: $tablet) {
+    $side-padding: 4vw;
+}
+@media screen and (min-width: $phone) {
+    $side-padding: 1vw;
+}

@@ -1,0 +1,149 @@
+@import '../../variables';
+
+.root {
+  background-color: $pink;
+  margin: 0;
+  padding-bottom: 100px;
+
+  .text_div {
+    text-align: center;
+    padding-bottom: 50px;
+
+    h6 {
+      margin: 0;
+      padding: 40px 0 3px;
+      font-size: 1.2rem;
+      font-weight: 800;
+      letter-spacing: 0.1%;
+      color: $bright-red;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      font-weight: 500;
+      letter-spacing: 100%;
+      word-spacing: 100%;
+    }
+    .inputs {
+      padding-top: 10px;
+      .input_item {
+        display: inline-block;
+        text-align: left;
+        margin: 5px 20px;
+        label {
+          display: block;
+          width: 30vw;
+          margin: 10px 0 5px;
+        }
+        input {
+          display: block;
+          width: 30vw;
+          height: 40px;
+          border: solid 2px $black;
+        }
+      }
+    }
+    .message {
+      margin: 30px 0 40px;
+      text-align: left;
+      label {
+        margin-left: calc((100% - (60vw + 40px)) / 2);
+      }
+      textarea {
+        width: calc(60vw + 40px);
+        margin: 7px auto 20px;
+        display: block;
+        border: solid 2px $black;
+      }
+      button {
+        text-align: center;
+        margin: 20px 25vw;
+        width: 30vw;
+        background-color: $black;
+        color: $white;
+      }
+    }
+  }
+  .card {
+    padding: calc(6vw - 40px);
+    h1 {
+      display: block;
+      font-size: 1.4rem;
+      font-weight: 800;
+      color: $white;
+      text-align: center;
+      margin: 0 0 40px;
+    }
+    .contact_div {
+      display: inline-flex;
+      align-items: center;
+      width: 100%;
+      .contact_item {
+        width: 33%;
+        height: 250px;
+        text-align: center;
+        padding: 0 20px;
+        img {
+          width: 100px;
+          height: 100px;
+        }
+        h1 {
+          display: block;
+          font-size: 1.3rem;
+          font-weight: 600;
+          margin: 25px 0 0;
+          letter-spacing: 2px;
+          color: $white;
+        }
+        p {
+          padding-bottom: 5px;
+          font-size: 1rem;
+          font-weight: 500;
+          opacity: 0.5;
+          word-spacing: 100%;
+          line-height: 130%;
+        }
+        span {
+          font-size: 1.2rem;
+          font-weight: 200;
+          color: $black;
+        }
+      }
+    }
+  }
+  .faq {
+    .faq_container {
+        margin-top: 60px;
+      text-align: left;
+      hr{
+        border: solid 1px $black;
+      }
+      aside{
+      position: relative;
+      padding: 30px 0;
+        h2 {
+          letter-spacing: -0.05rem;
+          font-size: 1.5rem;
+          font-weight: 600;
+          display: inline-block;
+          margin: 0;
+        }
+        span{
+          top: 30px;
+          width: 100%;
+          position: absolute;
+          font-weight: 200;
+          display: block;
+          text-align: right;
+          color: $black;
+        }
+        p {
+          letter-spacing: 0.1rem;
+          opacity: 0.5;
+          padding-right: 100px;
+          padding-bottom: 40px;
+        }
+      }
+    }
+  }
+}

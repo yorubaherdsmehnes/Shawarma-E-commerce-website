@@ -1,0 +1,399 @@
+{
+    "links": [
+        {
+            "id": 1,
+            "name": "About Us",
+            "imgURL": "src/assets/shawarma2.png"
+        },
+        {
+            "id": 2,
+            "name": "Our Advantage",
+            "imgURL": "src/assets/shawarma2.png"
+        },
+        {
+            "id": 3,
+            "name": "Menu",
+            "imgURL": "src/assets/shawarma2.png"
+        },
+        {
+            "id": 4,
+            "name": "Blog",
+            "imgURL": "src/assets/shawarma2.png"
+        },
+        {
+            "id": 5,
+            "name": "Contacts",
+            "imgURL": "src/assets/shawarma2.png"
+        }
+    ],
+    "blog": [
+        {
+            "id": 1,
+            "item": [
+                {
+                    "id": 1,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 2,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 3,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 4,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 5,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                }
+            ],
+            "heading": "Delicious Shawarma Recipes to Try at Home",
+            "paragraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!",
+            "catergory": "shawarma"
+        },
+        {
+            "id": 2,
+            "item": [
+                {
+                    "id": 1,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 2,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 3,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 4,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 5,
+                    "image": "src/assets/shawarma1.png",
+                    "paragraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                }
+            ],
+            "heading": "Delicious Shawarma Recipes to Try at Home",
+            "paragraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!",
+            "catergory": "shawarma"
+        },
+        {
+            "id": 3,
+            "item": [
+                {
+                    "id": 1,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 2,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 3,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 4,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 5,
+                    "image": "src/assets/shawarma1.png",
+                    "paragraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                }
+            ],
+            "heading": "Delicious Shawarma Recipes to Try at Home",
+            "paragraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!",
+            "catergory": "shawarma"
+        },
+        {
+            "id": 4,
+            "item": [
+                {
+                    "id": 1,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 2,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 3,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 4,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 5,
+                    "image": "src/assets/shawarma1.png",
+                    "paragraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                }
+            ],
+            "heading": "Delicious Shawarma Recipes to Try at Home",
+            "paragraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!",
+            "catergory": "shawarma"
+        },
+        {
+            "id": 5,
+            "item": [
+                {
+                    "id": 1,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 2,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 3,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 4,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 5,
+                    "image": "src/assets/shawarma1.png",
+                    "paragraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                }
+            ],
+            "heading": "Delicious Shawarma Recipes to Try at Home",
+            "paragraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!",
+            "catergory": "shawarma"
+        },
+        {
+            "id": 6,
+            "item": [
+                {
+                    "id": 1,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 2,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 3,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 4,
+                    "image": "src/assets/shawarma1.png",
+                    "innerParagraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                },
+                {
+                    "id": 5,
+                    "image": "src/assets/shawarma1.png",
+                    "paragraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!"
+                }
+            ],
+            "heading": "Delicious Shawarma Recipes to Try at Home",
+            "paragraph": "Are you craving the tantalizing flavors of shawarma but can't make it to your favorite restaurant? Fear not! With these delicious shawarma recipes, you can bring the magic of this Middle Eastern delight right into your own kitchen. Whether you're a seasoned chef or a beginner in the culinary world, these recipes are sure to impress your taste buds and satisfy your cravings. So, roll up your sleeves, gather your ingredients, and let's dive into the world of homemade shawarma!",
+            "catergory": "shawarma"
+        }
+    ],
+    "icons": {
+        "contacts": [
+            {
+                "id": 1,
+                "name": "Email",
+                "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "link": "shawarma@getsome.you"
+            },
+            {
+                "id": 2,
+                "name": "Phone",
+                "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "link": "+1 (555) 000-0000"
+            },
+            {
+                "id": 3,
+                "name": "Location",
+                "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "link": "123 Sample St, Sydney NSW 2000 AU"
+            }
+        ],
+    "features": [
+        {
+            "id": 1,
+            "heading": "High-Quality Ingredients",
+            "paragraph": "We source only the finest ingredients to create our flavorful shawarma."
+        },
+        {
+            "id": 2,
+            "heading": "Quick and Convenient Delivery",
+            "paragraph": "We get your shawarma delivered fast, Right where you need it"
+        },
+        {
+            "id": 1,
+            "heading": "Wide Variety of Options",
+            "paragraph": "Choose from a diverse menu of shawarma flavors and toppings."
+        }
+    ],
+    "footerSVGs": [
+        {
+            "id": 1,
+            "name": "facebook"
+        },
+        {
+            "id": 2,
+            "name": "instagram"
+        },
+        {
+            "id": 3,
+            "name": "twitterX"
+        },
+        {
+            "id": 4,
+            "name": "linked in"
+        },
+        {
+            "id": 5,
+            "name": "youtube"
+        }
+    ]
+    },
+    "faqs": [
+        {
+            "id": 1,
+            "heading": "What are the delivery options",
+            "paragraph": "To order our delicious shawarma, simply visit our website, select your desired items, and proceed to checkout. You can also call our hotline for assistance."
+        },
+        {
+            "id": 2,
+            "heading": "What are the delivery options",
+            "paragraph": "To order our delicious shawarma, simply visit our website, select your desired items, and proceed to checkout. You can also call our hotline for assistance."
+        },
+        {
+            "id": 3,
+            "heading": "What are the delivery options",
+            "paragraph": "To order our delicious shawarma, simply visit our website, select your desired items, and proceed to checkout. You can also call our hotline for assistance."
+        },
+        {
+            "id": 4,
+            "heading": "What are the delivery options",
+            "paragraph": "To order our delicious shawarma, simply visit our website, select your desired items, and proceed to checkout. You can also call our hotline for assistance."
+        }
+    ],
+    "shawarmaOptions": [
+        {
+            "id": 1,
+            "name": "Chicken Shawarma",
+            "imgURL": "src/assets/shawarma1.png",
+            "price": 2000,
+            "paragraph":"The most delicious chicken shawarma you have every tasted, with shredded chicken, carrots onions and the special sause"
+        },
+        {
+            "id": 2,
+            "name": "Beef Shawarma",
+            "imgURL": "src/assets/shawarma1.png",
+            "price": 2000,
+            "paragraph":"The most delicious beef shawarma you have every tasted, with mince beef, carrots onions and the special sause"
+        },
+        {
+            "id": 3,
+            "name": "Sausage Shawarma",
+            "imgURL": "src/assets/shawarma2.png",
+            "price": 1500,
+            "paragraph":"The most delicious sausage shawarma you have every tasted, with sausage, carrots onions and the special sause"
+        }
+    ],
+    "testimonial": [
+        {
+            "id": 1,
+            "name": "Musa",
+            "rating": 5,
+            "testimonial":
+                "I don chop shawarma before, but [Restaurant Name] na the one. The way dem dey cook am, e be like say na my mama from Kano dey cook am. No be small thing! The meat, tender like love, and the sauce, e sweet like Naija jollof. If you never chop for here, you dey miss!."
+        },
+        {
+            "id": 2,
+            "name": "Sarah",
+            "rating": 5,
+            "testimonial":
+                "Let me tell you about this shawarma spot, [Restaurant Name]. Their shawarma? It's amazing! As a shawarma lover, I've tried many places, but when I ate here, it felt like heaven. The meat is so tasty, and the veggies are fresh like they just picked them. I'm already craving another one"
+        },
+        {
+            "id": 3,
+            "name": "John",
+            "rating": 4,
+            "testimonial":
+                "Ah! The way [Restaurant Name] dey do shawarma, e make sense die! Theirs na the real deal, no be fake levels. The meat? Soft like pounded yam, and the veggies? Fresh like dem just pluck am from farm. If you never chop their shawarma, you dey miss blessing o!"
+        },
+        {
+            "id": 4,
+            "name": "Victor",
+            "rating": 5,
+            "testimonial":
+                "The Shawarma sweet, na wetin I fit talk"
+        }
+    ],
+    "catalogue": [
+        {
+            "id": 1,
+            "name": "Shawarma Joint"
+        },
+        {
+            "id": 2,
+            "name": "Shawarma Joint"
+        },
+        {
+            "id": 3,
+            "name": "Shawarma Joint"
+        },
+        {
+            "id": 4,
+            "name": "Shawarma Joint"
+        },
+        {
+            "id": 5,
+            "name": "Shawarma Joint"
+        },
+        {
+            "id": 6,
+            "name": "Shawarma Joint"
+        },
+        {
+            "id": 7,
+            "name": "Shawarma Joint"
+        },
+        {
+            "id": 8,
+            "name": "Shawarma Joint"
+        }
+    ]
+}

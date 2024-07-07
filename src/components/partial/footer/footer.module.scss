@@ -1,0 +1,188 @@
+@import '../../variables';
+
+.footer {
+  background-color: $black;
+  padding: 30px $side-padding;
+  position: relative;
+  section {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .logo_section {
+    width: 24vw;
+    display: inline-block;
+    color: $white;
+    h1 {
+      font-size: calc(1.1rem + 0.7vw);
+      font-weight: 700;
+    }
+    h6 {
+      display: none;
+    }
+  }
+  .links_section {
+    padding: 0 1vw;
+    width: calc((51vw - ($side-padding * 2)));
+    display: inline-block;
+    .buttons {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      button {
+        padding: 10px 5px;
+        font-size: calc(0.75rem + 0.1rem);
+        background-color: transparent;
+        color: $white;
+        margin: 0 0.5vw;
+      }
+    }
+  }
+  .icons_section {
+    width: 23vw;
+    height: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+    button {
+      padding: 0;
+      font-size: 0.8rem;
+      background-color: transparent;
+      svg {
+        fill: $white;
+        width: 25px;
+        height: 25px;
+      }
+    }
+    h6 {
+      display: none;
+    }
+  }
+  hr {
+    color: $white;
+  }
+  .copyright_section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    h6 {
+      font-size: 1rem;
+      font-weight: 400;
+      color: $white;
+      margin: 0;
+      text-align: center;
+    }
+  }
+
+  @media screen and (max-width: $tablet) {
+    padding: 50px $side-padding;
+    .logo_section {
+      display: inline-block;
+      width: 50%;
+      vertical-align: top;
+      h1 {
+        font-size: 1.6rem;
+        margin: 0;
+        margin-bottom: 10px;
+      }
+      h6 {
+        display: inline-block;
+        margin: 10px 0;
+        font-weight: 300;
+        font-size: 1rem;
+        width: 80%;
+      }
+    }
+    .links_section {
+      padding: 0;
+      display: inline-block;
+      width: 50%;
+      .buttons {
+        display: inline-block;
+        padding: 0 10px;
+        div {
+          display: block;
+          width: 100%;
+        }
+      }
+    }
+    .icons_section {
+      padding-top: 20px;
+      display: block;
+      width: 100%;
+      text-align: center;
+      button {
+        margin: 15px calc(4vw - 10px);
+      }
+    }
+  }
+
+  @media screen and (max-width: $phone) {
+    .logo_section {
+      display: block;
+      width: 100%;
+      margin-top: 25px;
+      h1 {
+        margin: 0;
+        width: 100%;
+      }
+      h6 {
+        display: none;
+      }
+    }
+    .links_section {
+      display: inline-block;
+      width: 50%;
+      padding-top: 20px;
+      .buttons {
+        display: inline-block;
+        padding: 15px 0;
+        div {
+          display: block;
+          width: 100%;
+        }
+        button {
+          padding: 10px 0;
+          font-size: 1rem;
+        }
+      }
+    }
+    .icons_section {
+      display: block;
+      width: 100%;
+      padding: 0;
+      .icons {
+        display: flex;
+        
+        margin: 35px 0;
+        button {
+          margin: 0;
+          vertical-align: middle;
+        }
+        h6 {
+          font-size: 0.8rem;
+          padding-left: 5vw;
+          display: inline-block;
+          color: $white;
+          margin: 0 auto;
+        }
+      }
+    }
+    .copyright_section {
+      justify-content: start;
+      padding-left: 0;
+      h6 {
+        text-align: left;
+      }
+    }
+  }
+}
+
+  .after_footer{
+    background-color: blue;
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: -1px;
+    height: 50px;
+  }

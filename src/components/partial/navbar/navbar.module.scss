@@ -1,0 +1,101 @@
+@import '../../variables';
+
+.navbar {
+  width: calc(100vw - ($side-padding * 2));
+  height: 80px;
+  background-color: transparent;
+  position: fixed;
+  padding: 0 $side-padding;
+  display: flex;
+  top: 0;
+  z-index: 1;
+
+  .logo_section {
+    width: calc(100px + 1vw);
+    display: inline-block;
+    span {
+      margin-top: -20px;
+      margin-left: 10px;
+      font-size: 0.9rem;
+    }
+    img {
+      width: 80px;
+      height: 40px;
+      margin: 20px 0;
+      background-color: antiquewhite;
+    }
+  }
+  .links_section {
+    width: calc((98vw - ($side-padding * 2)) - 200px);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 1vw;
+    button {
+      padding: 10px 15px;
+      font-size: 0.7rem;
+      background-color: transparent;
+      color: white;
+      margin: 0 1vw;
+    }
+  }
+  .CTA_section {
+    width: calc(100px + 1vw);
+    display: inline-flex;
+    align-items: center;
+    justify-content: end;
+    button {
+      padding: 10px 15px;
+      font-size: 0.8rem;
+    }
+    .offCanvas {
+      display: none;
+      button{
+        padding: 0;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: calc(40px);
+        height: calc(40px);
+        font-size: 1.8rem;
+      }
+    }
+  }
+
+  @media screen and (max-width: $tablet) {
+    width: 80vw;
+    padding: 0 $side-padding;
+    flex: none;
+    .links_section{
+      display: none;
+    }
+     .CTA_section {
+      width:  calc((99vw - ($side-padding * 2)) - 100px);
+
+      .offCanvas {
+        display: inline;
+        margin-left: 20px;
+      }
+    }
+  }@media screen and (max-width: $phone) {
+    width: 80vw;
+    padding: 0 $side-padding;
+    flex: none;
+    .links_section{
+      display: none;
+    }
+     .CTA_section {
+      width:  calc((99vw - ($side-padding * 2)) - 100px);
+      button{
+        display: none;
+      }
+      .offCanvas {
+        display: inline;
+        margin-left: 20px;
+        button{
+          display: inline;
+        }
+      }
+    }
+  }
+}

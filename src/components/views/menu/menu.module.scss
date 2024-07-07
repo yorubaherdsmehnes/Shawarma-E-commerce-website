@@ -1,0 +1,39 @@
+@import '../../variables';
+
+.root {
+  background-color: $pink;
+  margin: 0;
+  padding-bottom: 50px;
+
+  .text_div {
+    text-align: center;
+
+    h6 {
+      margin: 0;
+      padding: 60px 0 3px;
+      font-size: 1.3rem;
+      font-weight: 800;
+      color: $bright-red;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      font-weight: 500;
+      margin: 0;
+      letter-spacing: 40%;
+      word-spacing: 30%;
+    }
+  }
+  .menu {
+    padding: 30px 0;
+    .menu_card {
+      margin: 50px 0;
+      img {
+        width: calc((50vw - $side-padding) - 50px);
+        padding: 50px;
+        border-radius: 5rem;
+      }
+      
+    }
+  }
+}

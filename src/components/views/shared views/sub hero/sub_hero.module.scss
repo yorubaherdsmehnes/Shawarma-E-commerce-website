@@ -1,0 +1,70 @@
+@import '../../../variables';
+
+.hero {
+  width: 100vw;
+  height: 35vh;
+  position: fixed;
+  top: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  z-index: -1;
+  .filter {
+    width: 100%;
+    height: 100%;
+    background-color: #0000009b;
+    position: absolute;
+    // -mask-image: #11111115;
+    // backdrop-filter: blur(2px);
+    // background-position: 91% 48%;
+    // background-size: 150% 150%;
+    // background-repeat: repeat;
+    // background-attachment: scroll;
+    // background-origin: padding-box;
+    // background-clip: border-box;
+    z-index: 2;
+    // pointer-events: none;
+  }
+  .hero_bg_image_div {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 0;
+    z-index: 0;
+
+    // swiper styling
+    img {
+      height: 100%;
+      width: calc(100vh * 2.1);
+      object-fit: cover;
+      object-position: 10% 45%;
+    }
+  }.text_section{
+    position: absolute;
+    text-align: center;
+    h1{
+        font-size: 3rem;
+        font-weight: 600;
+        letter-spacing: 10px;
+        color: $white;
+        margin: 0;
+    }
+    h2{
+        font-size: 1.5rem;
+        font-weight: 400;
+        letter-spacing: 2px;
+        color: $white;
+        margin: 10px;  
+    }
+    button{
+        margin-top: 35px;
+    }
+    
+}
+}
+.transparent_top{
+    background-color: transparent;
+    height: 35vh;
+    width: 100%;
+    display: block;
+    position: inherit;
+}

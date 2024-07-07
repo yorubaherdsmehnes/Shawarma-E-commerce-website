@@ -1,0 +1,88 @@
+@import '../../variables';
+
+.root {
+  background-color: $pink;
+  margin: 0;
+  padding-bottom: 50px;
+
+  .text_div {
+    text-align: center;
+    height: 59vh;
+
+    h6 {
+      margin: 0;
+      padding: 60px 0 3px;
+      font-size: 1.3rem;
+      font-weight: 800;
+      color: $bright-red;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      font-weight: 500;
+      margin: 0;
+      letter-spacing: 40%;
+      word-spacing: 30%;
+    }
+    p {
+      padding: 10px 7.5vw 35px;
+      opacity: 0.6;
+      word-spacing: 10%;
+      line-height: 130%;
+    }
+  }
+  .card {
+    display: flex;
+    padding: calc(6vw - 40px);
+    .card_image {
+      width: 40%;
+      padding-right: calc(7vw - 40px);
+      display: inline-block;
+      text-align: center;
+      h1 {
+        font-size: 1.4rem;
+        font-weight: 800;
+        color: $white;
+      }
+      img {
+        width: 30vw;
+        height: 25vw;
+        object-fit: cover;
+        object-position: 10% 45%;
+        border-radius: 2.5rem;
+      }
+    }
+    .card_text {
+      display: inline-block;
+      width: 50%;
+      h1{
+        font-size: 2rem;
+        font-weight: 400;
+        width: 90%;
+        margin: 13px 0 30px;
+        color: $white;
+      }
+      h6 {
+        font-size: 1.6rem;
+        font-weight: 600;
+        color: $black;
+        margin: 10px 0;
+        display: block;
+      }
+      p {
+        font-size: 1.1rem;
+        color: $black;
+        opacity: 0.8;
+        margin: 0;
+        display: inline-block;
+        width: 80%;
+      }
+      .icon {
+        margin: 10px 15px 10px 0px;
+        width: 40px;
+        height: 40px;
+        background-color: aliceblue;
+      }
+    }
+  }
+}

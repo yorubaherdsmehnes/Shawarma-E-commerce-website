@@ -1,0 +1,143 @@
+@import '../../variables';
+
+.root {
+  background-color: $pink;
+  margin: 0;
+  padding-bottom: 50px;
+
+  .text_div {
+    text-align: center;
+    height: 59vh;
+
+    h6 {
+      margin: 0;
+      padding: 60px 0 3px;
+      font-size: 1.3rem;
+      font-weight: 800;
+      color: $bright-red;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      font-weight: 500;
+      margin: 0;
+      letter-spacing: 40%;
+      word-spacing: 30%;
+    }
+    p {
+      padding: 10px 7.5vw 35px;
+      opacity: 0.6;
+      word-spacing: 10%;
+      line-height: 130%;
+    }
+  }
+  .card {
+    padding: calc(6vw - 40px);
+    h1 {
+      display: block;
+      font-size: 1.4rem;
+      font-weight: 800;
+      color: $white;
+      text-align: center;
+      margin: 0 0 40px;
+    }
+    .features_div {
+      display: inline-flex;
+      align-items: center;
+      .feature_item {
+        position: relative;
+        width: 33%;
+        height: 250px;
+        text-align: center;
+        padding: 0 20px;
+        img {
+          width: 100px;
+          height: 100px;
+        }
+        h1 {
+          display: block;
+          font-size: 1.3rem;
+          font-weight: 600;
+          margin: 20px 0 10px;
+          letter-spacing: 2px;
+          color: $white;
+        }
+        p {
+          position: absolute;
+          bottom: 10%;
+          margin: 0;
+          font-size: 0.9rem;
+        }
+      }
+    }
+  }
+
+  .testimonial {
+    margin: 20px 0 100px;
+    h6 {
+      margin: 0;
+      padding: 60px 0 3px;
+      font-size: 1.3rem;
+      font-weight: 800;
+      color: $bright-red;
+      text-align: center;
+    }
+    h1 {
+      margin: 0 0 50px;
+      font-size: 2.5rem;
+      font-weight: 500;
+      letter-spacing: 40%;
+      word-spacing: 30%;
+      text-align: center;
+    }
+    .top {
+      display: flex;
+      align-items: center;
+      img {
+        width: 75px;
+        height: 75px;
+        border-radius: 100%;
+        object-fit: cover;
+        object-position: 50% 45%;
+        margin: 15px 25px 15px 0;
+      }
+      h2 {
+        display: inline;
+        font-size: 3rem;
+        margin: 0;
+      }
+    }
+    .paragraph {
+      height: 160px;
+      p {
+        opacity: 0.8;
+        font-size: 0.9rem;
+        opacity: 0.6;
+        word-spacing: 30%;
+        line-height: 130%;
+      }
+    }
+    .rating {
+      img {
+        width: 20px;
+        height: 20px;
+        padding: 0 15px 0 0;
+        z-index: -1;
+      }
+    }
+  .bgImg{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: calc(50% - 150px);
+    left: calc(50% - 150px);
+    opacity: 0.1;
+  }}
+}
+
+.swiper-pagination {
+    position: absolute;
+    bottom: 10px; /* Adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+  }
